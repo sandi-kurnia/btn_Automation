@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_hitungHargaProperti</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b03b1a36-e7f3-4c00-88db-4f566ec06f2d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>095e99df-d38a-469a-82ba-10e14549d759</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'2000'</defaultValue>
+      <description></description>
+      <id>095e99df-d38a-469a-82ba-10e14549d759</id>
+      <masked>false</masked>
+      <name>penghasilan</name>
+   </variable>
+</TestCaseEntity>
